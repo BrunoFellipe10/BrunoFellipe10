@@ -44,7 +44,7 @@ Aplicação web feita com **ASP.NET Core (C# + HTML + CSS)** para cadastro, edi�
 - Arquitetura MVC e uso de Razor Pages 🎯  
 
 > Projeto ideal para demonstrar lógica, organização de código e habilidades com ASP.NET Core.  
-> [🔗 Acesse o repositório](https://github.com/BrunoFellipe10/TaskManager)
+
 
 ---
 
