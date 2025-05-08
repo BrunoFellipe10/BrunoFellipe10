@@ -33,24 +33,18 @@
 
 ### 🚀 Projeto em destaque
 
-#### 🎵 Screen Sound – Avaliador de Bandas
+#### ✅ TaskManager Web – Gerenciador de Tarefas Pessoais
 
-Um sistema em console feito em **C#** para cadastrar bandas, atribuir notas e exibir média de avaliação.
+Aplicação web feita com **ASP.NET Core (C# + HTML + CSS)** para cadastro, edição e exclusão de tarefas.
 
 **Funcionalidades**:
-- Registro de bandas 🎸  
-- Avaliação com notas 🎯  
-- Cálculo automático da média 📊  
-- Interface de menu interativo via terminal 🖥️  
-- Uso de `Dictionary<string, List<int>>` para organização dos dados
+- Cadastro de tarefas 📝  
+- Edição e exclusão com atualização dinâmica 🔁  
+- Lista armazenada em memória (sem banco de dados) 💡  
+- Arquitetura MVC e uso de Razor Pages 🎯  
 
-> Esse projeto reforça conceitos de lógica, repetição, POO e estruturação de código.  
-> Em breve será publicado com README próprio aqui no GitHub! 🚀
-
----
-
-
-
+> Projeto ideal para demonstrar lógica, organização de código e habilidades com ASP.NET Core.  
+> [🔗 Acesse o repositório](https://github.com/BrunoFellipe10/TaskManager)
 
 ---
 
